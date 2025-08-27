@@ -1,4 +1,5 @@
 # openSASUKE
+![OpenSASUKE logo](https://i.postimg.cc/W3bWdgqy/OPEN.png)
 This project can be described in these words;
 A Simulator for the niche-hit sports-reality show variably called "SASUKE" or "Ninja Warrior.", being an alternative to "Ninja Machine."
 
