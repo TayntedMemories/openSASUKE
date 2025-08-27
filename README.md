@@ -1,6 +1,4 @@
 # openSASUKE
-![OpenSASUKE logo](https://i.postimg.cc/W3bWdgqy/OPEN.png)
-‎   
 This project can be described in these words;
 A Simulator for the niche-hit sports-reality show variably called "SASUKE" or "Ninja Warrior.", being an alternative to "Ninja Machine."
 
@@ -12,3 +10,5 @@ This project was born out of personal wants to be able to use custom obstacles i
 This project is ***NOT*** meant as "adversarial" competition, rather, NM and oS could be used for different things; openSASUKE could be better for custom competitions, NM could be better for leagues.
 
 Please read EVERY file that has "README" in it before using, contributing to, or otherwise interacting with this program, or inquiring with me about the program.
+
+![OpenSASUKE logo](https://i.postimg.cc/W3bWdgqy/OPEN.png)
