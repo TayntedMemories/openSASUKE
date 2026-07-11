@@ -1,2 +1,4 @@
-# An example obstacle.
-run_up: 32
+---
+# An example obstacle
+runup: 32
+speed: 48
