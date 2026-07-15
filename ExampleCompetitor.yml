@@ -1,4 +1,16 @@
 ---
 speed: 60
 balance: 60
-runup: 40
+agility: 60
+strovr: 60 
+gripstr: 60
+techovr: 60
+bartech: 60
+canetech: 60
+ringtech: 60
+jumppower: 60
+climbpower: 60
+jumpdistance: 60
+lachedistance: 60
+iq: 60
+# This is the "canonical" stat list. Of course, openSASUKE is made to be agnostic to what the stats are, so long as they are within the 0-80 range on competitors and 0-100 on obstacles.
